@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Social Media Tech Future Challenges</title>
+</head>
+<body>
+
+<h1>Tech Future Challenges</h1>
+
+<h2>Source 1</h2>
+<table border="1">
+    <tr>
+        <th>URL</th>
+        <td><a href="https://www.un.org/en/un75/impact-digital-technologies">https://www.un.org/en/un75/impact-digital-technologies</a></td>
+    </tr>
+    <tr>
+        <th>Author</th>
+        <td>United Nations</td>
+    </tr>
+    <tr>
+        <th>Abstract</th>
+        <td>
+            This section of the UN page explains the major problems that digital technology and social media can create in the future. It discusses concerns like misinformation, online safety, privacy, and the digital divide between people who have technology and people who do not. The UN explains that as digital tools grow stronger, the risks grow with them. These risks affect communication, trust, and fairness in societies around the world. The page also highlights the challenge of balancing innovation with responsibility, because technology can help people, but it can also be misused. This information supports the idea that social media will continue to affect world issues and that future online spaces will require careful rules and attention.
+        </td>
+    </tr>
+</table>
+
+<br>
+
+<h2>Source 2</h2>
+<table border="1">
+    <tr>
+        <th>URL</th>
+        <td><a href="https://www.pewresearch.org/topic/internet-technology/">https://www.pewresearch.org/topic/internet-technology/</a></td>
+    </tr>
+    <tr>
+        <th>Author</th>
+        <td>PEW Research Center</td>
+    </tr>
+    <tr>
+        <th>Abstract</th>
+        <td>
+            This type of source explains how social media is expected to shape the future, especially as artificial intelligence becomes more involved in content creation and decision-making. It discusses concerns about misinformation, deepfakes, online political influence, privacy problems, and the difficulty of identifying what is real. The information shows that many experts believe social media will play a larger role in world issues, such as elections, public health, and global communication. The site also explains that people will depend more on digital platforms, which means the challenges will grow unless better rules are created. This helps show why the future of social media is not only about growth or entertainment but also about protecting users and building safer online environments.
+        </td>
+    </tr>
+</table>
+
+</body>
+</html>

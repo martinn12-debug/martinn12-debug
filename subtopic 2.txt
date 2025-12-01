@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Social Media Tech Effects</title>
+</head>
+<body>
+
+<h1>Tech Effects</h1>
+
+<h2>Source 1</h2>
+<table border="1">
+    <tr>
+        <th>URL</th>
+        <td><a href="https://www.who.int/europe/news/item/25-09-2024-teens--screens-and-mental-health">https://www.who.int/europe/news/item/25-09-2024-teens--screens-and-mental-health</a></td>
+    </tr>
+    <tr>
+        <th>Author</th>
+        <td>World Health Organization</td>
+    </tr>
+    <tr>
+        <th>Abstract</th>
+        <td>
+            This site talks about how social media and screen use affect the mental health of young people. It explains that many teens spend large amounts of time online, which can influence sleep, stress, and emotional well-being. The WHO points out that some online experiences help teens feel connected, but others can expose them to pressure, harmful content, or unhealthy comparisons. The report includes research findings that show both positive and negative outcomes of long screen use. It also explains that families and communities should understand how these platforms shape daily habits and behavior. The information helps connect social media use with real emotional effects, making it easier to understand why young people can struggle or benefit from online spaces.
+        </td>
+    </tr>
+</table>
+
+<br>
+
+<h2>Source 2</h2>
+<table border="1">
+    <tr>
+        <th>URL</th>
+        <td><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151">https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151</a></td>
+    </tr>
+    <tr>
+        <th>Author</th>
+        <td>National Library of Medicine</td>
+    </tr>
+    <tr>
+        <th>Abstract</th>
+        <td>
+            This article explains how algorithms shape what people see on social media and how these systems influence user behavior. It shows that platforms study what users look at, how long they stay on a post, and what they click. The algorithm then sends more of the same type of content to keep them engaged. The article warns that this can change how people spend their time online, what they believe, and the choices they make. It also discusses how fast these systems learn and how they can create patterns that people may not notice. The information helps show that algorithms quietly guide daily online experiences, which can affect mood, interests, and opinions without the person realizing it.
+        </td>
+    </tr>
+</table>
+
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Social Media Tech Growth</title>
+</head>
+<body>
+
+<h1>Tech Growth</h1>
+
+<h2>Source 1</h2>
+<table border="1">
+    <tr>
+        <th>URL</th>
+        <td><a href="https://datareportal.com/social-media-users">https://datareportal.com/social-media-users</a></td>
+    </tr>
+    <tr>
+        <th>Author</th>
+        <td>Data Reportal</td>
+    </tr>
+    <tr>
+        <th>Abstract</th>
+        <td>
+            This site explains how social media has grown into one of the most used digital tools in the world. It shows how the number of users keeps increasing every year as more people gain internet access and as new platforms become popular. The site provides simple charts and statistics that help readers understand how quickly people have joined apps like Instagram, TikTok, YouTube, and others. It also shows how social media became part of everyday life for communication, entertainment, and business. The information helps explain why social media feels so large today and how it expanded from small websites into worldwide networks that connect billions of people across different countries and cultures.
+        </td>
+    </tr>
+</table>
+
+<br>
+
+<h2>Source 2</h2>
+<table border="1">
+    <tr>
+        <th>URL</th>
+        <td><a href="https://www.un.org/en/un75/impact-digital-technologies.">https://www.un.org/en/un75/impact-digital-technologies.</a></td>
+    </tr>
+    <tr>
+        <th>Author</th>
+        <td>United Nations</td>
+    </tr>
+    <tr>
+        <th>Abstract</th>
+        <td>
+            This page discusses how digital tools, including social media, changed the way people connect and share information. It explains that new technologies made communication faster and easier for communities all over the world. The United Nations highlights how social platforms allowed people to speak across long distances, organize events, and exchange ideas much more easily than before. It also shows how digital growth supported education, global cooperation, and access to important information. The main point is that digital technology grew quickly because it helped people solve everyday problems, and this growth shaped how societies communicate and function today. This supports the idea that social media has become part of global progress.
+        </td>
+    </tr>
+</table>
+
+</body>
+</html>
